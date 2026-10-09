@@ -7,7 +7,10 @@ from typing import AsyncIterator
 from fastapi import APIRouter, FastAPI, Request
 from fastapi.responses import JSONResponse
 
+from app.api.v1.cart import router as cart_router
+from app.api.v1.faq import router as faq_router
 from app.api.v1.products import router as products_router
+from app.api.v1.shopping_assistant import router as shopping_assistant_router
 from app.core.config import settings
 from app.core.logging import configure_logging
 
@@ -40,6 +43,9 @@ api_v1_router.add_api_route(
     tags=["Health"],
 )
 api_v1_router.include_router(products_router)
+api_v1_router.include_router(shopping_assistant_router)
+api_v1_router.include_router(faq_router)
+api_v1_router.include_router(cart_router)
 
 app = FastAPI(
     title=settings.app_name,
