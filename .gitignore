@@ -4,6 +4,7 @@ raglearn/
 
 # Environment secrets
 .env
+.env.example
 
 # Python artifacts
 __pycache__/
