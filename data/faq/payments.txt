@@ -1,0 +1,13 @@
+Payment Information
+
+Accepted payment methods
+Checkout supports eligible credit cards, debit cards, UPI, and net banking from participating banks and payment providers. Available options can vary by order, bank, and PIN code. The payment methods currently available for a specific order are shown on the secure checkout page before the order is submitted.
+
+Credit and debit cards
+Major card networks are accepted when supported by the issuing bank and payment gateway. Your bank may require an OTP or app-based authentication to authorize the transaction. The final amount and any applicable taxes are displayed before you confirm payment. Never share an OTP, PIN, or full card credentials with customer support.
+
+UPI and net banking
+UPI payments can be completed through a supported UPI app or handle when the option appears at checkout. Net banking is available for participating banks. A payment may remain pending briefly while the provider confirms the transaction; check the order page before attempting another payment to avoid duplicate charges.
+
+EMI
+EMI is available only on eligible cards, banks, products, and order values. Supported tenure options, monthly installments, interest, and any processing charges are displayed at checkout and depend on the issuing bank. Review the complete installment amount and terms before confirming. EMI eligibility and cancellation or refund treatment are governed by the bank's terms.

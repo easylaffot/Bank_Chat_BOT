@@ -1,0 +1,21 @@
+id,brand,model_name,category,price,ram_gb,processor,storage_gb,battery_hours,stock_quantity,delivery_days,rating
+LAP-001,Dell,Inspiron 15 3530,Student,42990,8,Intel Core i3-1315U,512,7.0,8,2,4.1
+LAP-002,Dell,Vostro 15 3530,Programming,56990,16,Intel Core i5-1335U,512,8.0,5,3,4.2
+LAP-003,Dell,Inspiron 14 5440,Business,68990,16,Intel Core i5-1335U,1024,9.0,3,4,4.3
+LAP-004,Dell,G15 5530,Gaming,89990,16,Intel Core i7-13650HX,512,5.5,0,6,4.4
+LAP-005,HP,15s-fq5007TU,Student,39990,8,Intel Core i3-1215U,512,7.5,12,2,4.0
+LAP-006,HP,Pavilion 14-dv2014TU,Programming,62990,16,Intel Core i5-1235U,512,8.5,4,3,4.3
+LAP-007,HP,15-fc0155AU,Student,54990,16,AMD Ryzen 5 7530U,512,9.0,7,4,4.2
+LAP-008,HP,Pavilion Plus 14-ew1010TU,Ultrabook,86990,16,Intel Core i7-1355U,1024,10.0,2,5,4.5
+LAP-009,Lenovo,IdeaPad Slim 3 15IAU7,Student,41990,8,Intel Core i3-1215U,512,7.0,9,2,4.1
+LAP-010,Lenovo,IdeaPad Slim 5 14IRL8,Programming,61990,16,Intel Core i5-13420H,512,8.5,6,3,4.4
+LAP-011,Lenovo,ThinkBook 14 Gen 6,Business,72990,16,AMD Ryzen 5 7530U,1024,9.5,3,4,4.3
+LAP-012,Lenovo,LOQ 15IRX9,Gaming,89990,16,Intel Core i7-13650HX,512,5.0,0,7,4.5
+LAP-013,ASUS,Vivobook Go 15 E1504FA,Student,48990,8,AMD Ryzen 5 7520U,512,9.0,10,2,4.2
+LAP-014,ASUS,Vivobook 15 X1504VA,Business,59990,16,Intel Core i5-1335U,512,8.0,5,3,4.1
+LAP-015,ASUS,Zenbook 14 OLED UM3406HA,Ultrabook,89990,16,AMD Ryzen 7 8840HS,1024,11.0,2,5,4.6
+LAP-016,ASUS,TUF Gaming A15 FA507NU,Gaming,87990,16,AMD Ryzen 7 7735HS,512,6.0,1,6,4.4
+LAP-017,Acer,Aspire Lite 15 AL15-41,Student,49990,16,AMD Ryzen 5 5500U,512,8.0,8,3,4.0
+LAP-018,Acer,Aspire 5 A515-58M,Programming,64990,16,Intel Core i5-1335U,1024,8.5,4,4,4.2
+LAP-019,Acer,Aspire 7 A715-76G,Gaming,82990,16,Intel Core i7-12650H,512,6.0,0,5,4.3
+LAP-020,Acer,Swift Go 14 SFG14-71,Ultrabook,79990,16,Intel Core i5-13500H,512,10.5,3,2,4.5

@@ -1,0 +1,19 @@
+# Local virtual environments
+raglearn/
+.venv/
+
+# Environment secrets
+.env
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Runtime persistence data
+storage/chroma/*
+!storage/chroma/.gitkeep
+storage/sqlite/*
+!storage/sqlite/.gitkeep

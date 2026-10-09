@@ -1,0 +1,10 @@
+Delivery Information
+
+Delivery timelines
+Orders are generally prepared for dispatch within one to two business days after payment confirmation. Standard delivery to serviceable metro locations usually takes two to five business days after dispatch. Other serviceable locations typically take four to eight business days. These are estimates, not guaranteed dates; the delivery estimate shown at checkout for the destination PIN code takes precedence.
+
+Express delivery
+Express delivery may be available for selected laptops and serviceable PIN codes. Eligibility, the additional charge, and the estimated delivery date are displayed at checkout before payment. Orders placed after the displayed daily cutoff may be processed on the next business day. Express delivery is not available for every item or destination and cannot be added after an order has shipped.
+
+Shipping regions
+Delivery is available only to PIN codes that pass the serviceability check at checkout. Coverage can differ by product, courier, and destination. Remote locations, restricted-access areas, and some regions may not be serviceable. Enter the delivery PIN code on the product or checkout page to confirm availability and see the current estimate before placing an order.
